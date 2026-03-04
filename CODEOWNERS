@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @harrisonbird-lab
+/src/backend/database.py      @harrisonbird-lab
+/src/backend/routers/auth.py  @harrisonbird-lab
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @harrisonbird-lab
